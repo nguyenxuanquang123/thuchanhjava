@@ -1,4 +1,4 @@
-package src;
+ackage src;
 import java.util.Scanner;
 
 import javax.lang.model.util.ElementScanner14;
@@ -44,3 +44,4 @@ public class App1 {
         }
     }
 }
+
